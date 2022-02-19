@@ -1,4 +1,4 @@
-# Ktor kafka plugin
+# Ktor vault plugin
 ![Publish](https://github.com/karlazzampersonal/ktor-vault/actions/workflows/deploy.yml/badge.svg?branch=main)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
 
