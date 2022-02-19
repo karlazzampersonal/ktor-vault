@@ -66,7 +66,7 @@ publishing {
     repositories {
         maven {
             name = "GitHubPackages"
-            url = uri("https://maven.pkg.github.com/karlazzampersonal/ktor-kafka")
+            url = uri("https://maven.pkg.github.com/karlazzampersonal/ktor-vault")
             credentials {
                 username = System.getenv("GH_USER")
                 password = System.getenv("GH_TOKEN")
